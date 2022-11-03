@@ -1,6 +1,14 @@
-# 优购商城后台管理系统
-
 [https://github.com/MoonerHigh/ugomall-admin-web](https://github.com/MoonerHigh/ugomall-admin-web)
+
+## 前言
+
+此项目为优购商城前后端分离项目的前端部分，后端地址：https://github.com/MoonerHigh/ugo-mall
+
+---
+
+## 项目介绍
+
+`ugomall-admin-web`是一个电商后台管理系统的前端项目，基于Vue+Element实现。主要包括用户登录、注册、商品搜索、商品详情、购物车、订单、秒杀活动等模块功能。
 
 ## 安装
 
