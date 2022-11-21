@@ -71,7 +71,7 @@ t.login.title = '登录'
 t.login.username = '用户名'
 t.login.password = '密码'
 t.login.captcha = '验证码'
-t.login.demo = '在线演示'
+// t.login.demo = '在线演示'
 t.login.copyright = 'MoonerHigh'
 
 t.schedule = {}
